@@ -1,6 +1,6 @@
 # 介绍
 
-一个简单的配置主页的插件
+一个简单的配置主页的插件,会把进入网站的默认index.html修改为你想要的,而不是单纯的readme.md
 
 ```json
 "pluginsConfig": {

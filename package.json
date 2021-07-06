@@ -1,6 +1,9 @@
 {
   "name": "gitbook-plugin-custom-index",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "engines": {
+    "gitbook": ">=3.0.0-pre.0"
+  },
   "description": "a plugin able to replace the index of your book, sorry for readme.md",
   "main": "index.js",
   "scripts": {
